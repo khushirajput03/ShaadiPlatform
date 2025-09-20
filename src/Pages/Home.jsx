@@ -12,12 +12,12 @@ export const Home = () => {
   return (
     <div>
       <HomeAbout/>
-      {/* <HomeReactSlickSlider/> */}
+      <HomeReactSlickSlider/>
       <OurService/>
        <VenuePartners/>
-      {/* <HomeCarousel/>
+      <HomeCarousel/>
       <HomeDecor/>
-      <HomeSuccessfulWedding/> */}
+      <HomeSuccessfulWedding/>
       <HomeMessageForm/>
     </div>
   )
